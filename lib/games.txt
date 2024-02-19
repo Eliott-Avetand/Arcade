@@ -1,0 +1,2 @@
+arcade_pacman.so
+arcade_nibbler.so
